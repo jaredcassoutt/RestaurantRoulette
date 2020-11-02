@@ -16,6 +16,7 @@
 		D024B9F12547D30F00A0BB2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D024B9EF2547D30F00A0BB2C /* LaunchScreen.storyboard */; };
 		D024B9FC2547D31000A0BB2C /* Restaurant_RouletteTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D024B9FB2547D31000A0BB2C /* Restaurant_RouletteTests.swift */; };
 		D024BA072547D31000A0BB2C /* Restaurant_RouletteUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D024BA062547D31000A0BB2C /* Restaurant_RouletteUITests.swift */; };
+		D024BA182547DE0600A0BB2C /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D024BA172547DE0600A0BB2C /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D024BA022547D31000A0BB2C /* Restaurant RouletteUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Restaurant RouletteUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D024BA062547D31000A0BB2C /* Restaurant_RouletteUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant_RouletteUITests.swift; sourceTree = "<group>"; };
 		D024BA082547D31000A0BB2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D024BA172547DE0600A0BB2C /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				D024B9EF2547D30F00A0BB2C /* LaunchScreen.storyboard */,
 				D024B9F22547D30F00A0BB2C /* Info.plist */,
 				D024B9EA2547D30300A0BB2C /* Restaurant_Roulette.xcdatamodeld */,
+				D024BA172547DE0600A0BB2C /* Extensions.swift */,
 			);
 			path = "Restaurant Roulette";
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D024BA182547DE0600A0BB2C /* Extensions.swift in Sources */,
 				D024B9EC2547D30300A0BB2C /* Restaurant_Roulette.xcdatamodeld in Sources */,
 				D024B9E62547D30300A0BB2C /* ViewController.swift in Sources */,
 				D024B9E22547D30300A0BB2C /* AppDelegate.swift in Sources */,
