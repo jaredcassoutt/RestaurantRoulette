@@ -23,11 +23,11 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>In order to recommend restraunts access to location needs to be allowed</string>
+	<string>In order to recommend restaurants, access to location needs to be allowed</string>
 	<key>NSLocationUsageDescription</key>
-	<string>In order to recommend restraunts access to location needs to be allowed</string>
+	<string>In order to recommend restaurants, access to location needs to be allowed</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>In order to recommend restraunts access to location needs to be allowed</string>
+	<string>In order to recommend restaurants, access to location needs to be allowed</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
